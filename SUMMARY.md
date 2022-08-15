@@ -8,3 +8,4 @@
 * [Lec03 OS Organization and System Calls](note/lec03-os-organization-and-system-calls.md)
 * [Lec04 Page tables (Frans)](note/lec04-page-tables-frans.md)
 * [Lec05 Calling conventions and stack frames RISC-V (TA)](note/lec05-calling-conventions-and-stack-frames-risc-v-ta.md)
+* [Lec06 Isolation & system call entry/exit (Robert)](note/lec06-isolation-and-system-call-entry-exit-robert.md)
