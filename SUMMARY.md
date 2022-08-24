@@ -12,3 +12,4 @@
 * [Lec08 Page faults (Frans)](note/lec08-page-faults-frans.md)
 * [Lec09 Interrupts (Frans)](note/lec09-interrupts-frans.md)
 * [Lec10 Multiprocessors and locking (Frans)](note/lec10-multiprocessors-and-locking-frans.md)
+* [Lec11 Thread switching (Robert)](note/lec11-thread-switching-robert.md)
